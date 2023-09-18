@@ -15,5 +15,8 @@ git add README.md //добавление конктреного файла
 //пример добавления коммита
 git commit -m "Изменения в файле Readme" 
 
+//отправяляем на сервер
+git push https://github.com/avladimirskiy/GitManual.git
+
 //клонирование репозитория
 git clone https://github.com/avladimirskiy/GitManual.git
