@@ -105,13 +105,17 @@ git commit -m "Исправить #334, добавить график темпе
 
 <h3>Игнорирование файлов</h3>
 <p>Создаем файл .gitignore коммандой (в Windows)</p>
+
 ``` bash
 New-Item .gitignore 
 ```
+
 <p>В Линукс</p>
+
 ``` bash
 touch .gitignore 
 ```
+
 <p></p>Добавление каталога в файле .gitignore прописать как bin/</p>
 
 
